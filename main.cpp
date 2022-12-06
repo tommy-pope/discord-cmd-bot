@@ -9,8 +9,8 @@ using std::string;
 using std::vector;
 using std::stringstream;
 
-const string BOT_TOKEN = "MTA0MDA2Nzc2NzQ0NzA2NDU4Ng.GCOQdU.breHsQDF-I8L4GbGHCVLVQ1xj90Ef8sOW3dauE";
-const string BOT_NAME = "tommy-bot";
+const string BOT_TOKEN = "";
+const string BOT_NAME = "";
 const dpp::snowflake channel_id(1040068528885223558);
 const bool debug = false;
 
